@@ -2,7 +2,7 @@
 - 👀 I’m interested in website programming
 - 🌱 I’m currently learning javascript, php and responsive website
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me chenv.pro@gmail.com
+- 📫 How to reach me vincentchen.cp@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love learning more and deeply programming languages
 

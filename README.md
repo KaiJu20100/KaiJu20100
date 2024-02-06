@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaiJu20100
+- 👋 Hi, I’m @Vincent 
 - 👀 I’m interested in website programming
 - 🌱 I’m currently learning javascript, php and responsive website
 - 💞️ I’m looking to collaborate on ...

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vincent 
 - 👀 I’m interested in website programming
-- 🌱 I’m currently learning javascript, php and responsive website
+- 🌱 I’m currently learning java, javascript, php and responsive website
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vincentchen.cp@gmail.com
 - 😄 Pronouns: He
